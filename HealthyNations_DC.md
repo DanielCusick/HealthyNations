@@ -1,8 +1,8 @@
-##HealthyNations Linear Regression ####\# **2010-2019 data from the
-[OECD](https://stats.oecd.org/)**
+## HealthyNations Linear Regression 
 
-Data .csv files can be found in this [**HealthyNations
-Repository**](https://github.com/DanielCusick/HealthyNations)
+#### **2010-2019 data from the [OECD](https://stats.oecd.org/)**
+
+Data .csv files can be found in this [**HealthyNations Repository**](https://github.com/DanielCusick/HealthyNations)
 
 **Response Variables**
 
