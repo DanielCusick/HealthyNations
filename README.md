@@ -11,8 +11,8 @@ Data .csv files can be found in this [**HealthyNations Repository**](https://git
 
 **Response Variables**
 
--   [**Avoidable mortality deaths per
-    100,000**](https://www.oecd-ilibrary.org/sites/3b4fdbf2-en/index.html?itemId=/content/component/3b4fdbf2-en)
+-   Avoidable mortality deaths per 100,000
+      - avoidable = preventable and treatable
 -   Life Expectancy at Birth
 
 **Independent Categorical Variable for Health System**
